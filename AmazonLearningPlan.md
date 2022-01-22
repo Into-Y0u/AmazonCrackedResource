@@ -52,9 +52,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
+| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ✅ |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | ✅ |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
@@ -68,14 +68,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
+| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |✅  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
-| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
+| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) | ✅ |  |
+| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) | ✅ |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |✅  |  |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |✅  |  |
 
 ---
 <br>
