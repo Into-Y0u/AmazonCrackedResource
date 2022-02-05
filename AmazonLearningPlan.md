@@ -56,7 +56,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  | ✅ |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | ✅ |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |✅  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
 
 ---
