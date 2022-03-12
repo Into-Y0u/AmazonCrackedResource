@@ -49,7 +49,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | ✅ |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |✅  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  | ✅  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |✅  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ✅ |  |
@@ -102,16 +102,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |✅  |  |
 | [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/) | ✅ |  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | ✅ |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |✅  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | ✅  |  |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
 
 ---
 ## Contribute
