@@ -110,7 +110,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | ✅  |  |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ✅ |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
 
 ---
