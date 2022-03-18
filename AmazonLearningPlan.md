@@ -57,7 +57,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | ✅ |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  | ✅  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |✅  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |✅  |  |
 
 ---
 <br>
