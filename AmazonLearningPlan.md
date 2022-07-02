@@ -87,10 +87,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) | ✅ |  |
 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | ✅ |  |
-| [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
+| [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) | ✅  |  |
 | [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  | ✅ |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
-| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
+| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  | ✅ |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |✅  |  |
 | [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | ✅ |  |
 | [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
@@ -108,7 +108,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | ✅ |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |✅  |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | ✅ |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  | ✅  |  |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ✅ |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ |  |
